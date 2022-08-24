@@ -3,17 +3,13 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/gulimall-product/pom.xml" />
         <option value="$PROJECT_DIR$/guigumall-ware/pom.xml" />
-        <option value="$PROJECT_DIR$/gulimall-order/pom.xml" />
         <option value="$PROJECT_DIR$/gulimll-member/pom.xml" />
-        <option value="$PROJECT_DIR$/gulimall-coupon/pom.xml" />
-        <option value="$PROJECT_DIR$/gulimall-ware/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="18" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8 (2)" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
